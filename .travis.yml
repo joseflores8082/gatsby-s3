@@ -10,4 +10,5 @@ deploy:
   bucket: 'booch.io'
   skip_cleanup: true
   acl: public_read
+  region: us-west-1
   local_dir: public
